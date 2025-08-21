@@ -108,7 +108,7 @@
 
 #level-4 .onions {
   grid-column: 3;
-  grid-row: 1;
+  grid-row: 1 / 3;
 }
 
 #level-4 .carrots {
